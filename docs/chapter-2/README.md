@@ -1,7 +1,5 @@
 # CAHPTER 2 리팩터링 원칙
 
-<hr style="border: 2px solid;">
-
 ## 2.1 리팩터링 정의
 
 ---
